@@ -1,2 +1,2 @@
-# Codecademy-Lesson1
+# Codecademy Web Developer Lessons
 Learn HTML Basics
