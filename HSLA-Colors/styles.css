@@ -207,7 +207,7 @@ button:hover {
   opacity: 0.75;
 }
 .button-primary {
-  background-color: #0D1C32;
+  background-color: #DB9A11;
   color: #FFFFFF;
 }
 .button-secondary {
@@ -249,7 +249,7 @@ input {
   background-color: #F5F9FF;
 }
 .main-content-benefits h2 {
-  color: #0D1C32;
+  color: #DB9A11;
 }
 .main-content-info {
   background-color: #627FB0;
@@ -351,3 +351,21 @@ input {
     margin-right: 2.5%;
   }
 }
+/* COLOR THEORY
+Color Psychology
+Even though we’ve explored multiple possibilities in terms of selecting color schemes, when it comes down to choosing the right combinations, a designer must determine the “feel” of their website.
+
+Every color has a different context and meaning, and color psychology can impact how people perceive a design and relate to the colors used. Choosing the right colors can help nonverbally communicate the context and emotion of a product or service.
+
+Each color has a specific meaning (both positive and negative), which can evoke emotions from a user. For instance, here’s a list of words often associated with colors:
+
+Red: Passionate, energetic, angry
+Orange: Optimistic, playful, fun
+Yellow: Welcoming, intellectual, impatient
+Green: Prosperous, balanced, growing
+Blue: Peaceful, loyal, cold
+Purple: Imaginative, royal, spiritual
+Gray: Unemotional, compromising
+White: Innocent, pure
+Black: Luxurious, powerful
+It’s also important to note that color associations may vary from other parts of the world as well. However, when selecting colors, be sure to choose ones that help reinforce the overall message and tone of the website! */
